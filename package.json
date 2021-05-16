@@ -1,0 +1,14 @@
+{
+  "name": "poll-bot",
+  "version": "1.0.0",
+  "description": "This is a poll bot - prefix = >",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FXCH",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
